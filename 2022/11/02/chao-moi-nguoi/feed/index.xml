@@ -7,9 +7,9 @@
 	>
 <channel>
 	<title>
-	Bình luận cho handmade shop	</title>
-	<atom:link href="http://kiratran23.github.io/mywordpress/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>http://kiratran23.github.io/mywordpress</link>
+	Các phản hồi luận về: Chào tất cả mọi người!	</title>
+	<atom:link href="http://kiratran23.github.io/mywordpress/2022/11/02/chao-moi-nguoi/feed/" rel="self" type="application/rss+xml" />
+	<link>http://kiratran23.github.io/mywordpress/2022/11/02/chao-moi-nguoi/</link>
 	<description>Một trang web mới sử dụng WordPress</description>
 	<lastBuildDate>Wed, 02 Nov 2022 08:30:32 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -19,7 +19,7 @@
 	<generator>https://wordpress.org/?v=6.1</generator>
 	<item>
 		<title>
-		Phản hồi cho Chào tất cả mọi người! bởi Một người bình luận WordPress		</title>
+		Bởi: Một người bình luận WordPress		</title>
 		<link>http://kiratran23.github.io/mywordpress/2022/11/02/chao-moi-nguoi/#comment-1</link>
 
 		<dc:creator><![CDATA[Một người bình luận WordPress]]></dc:creator>

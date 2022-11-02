@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>Chưa phân loại &#8211; handmade shop</title>
-	<atom:link href="http://kiratran23.github.io/mywordpress/category/khong-phan-loai/feed/" rel="self" type="application/rss+xml" />
+	<title>handmade shop</title>
+	<atom:link href="http://kiratran23.github.io/mywordpress/feed/" rel="self" type="application/rss+xml" />
 	<link>http://kiratran23.github.io/mywordpress</link>
 	<description>Một trang web mới sử dụng WordPress</description>
 	<lastBuildDate>Wed, 02 Nov 2022 08:30:32 +0000</lastBuildDate>
