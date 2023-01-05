@@ -9,8 +9,8 @@
 
 <channel>
 	<title>test</title>
-	<atom:link href="http://https://kiratran23.github.io/mywordpress/feed/" rel="self" type="application/rss+xml" />
-	<link>http://https://kiratran23.github.io/mywordpress</link>
+	<atom:link href="https://kiratran23.github.io/mywordpress/feed/" rel="self" type="application/rss+xml" />
+	<link>https://kiratran23.github.io/mywordpress</link>
 	<description></description>
 	<lastBuildDate>Mon, 02 Jan 2023 13:14:54 +0000</lastBuildDate>
 	<language>vi</language>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=6.1.1</generator>
 	<item>
 		<title>Chào tất cả mọi người!</title>
-		<link>http://https://kiratran23.github.io/mywordpress/chao-moi-nguoi/</link>
-					<comments>http://https://kiratran23.github.io/mywordpress/chao-moi-nguoi/#comments</comments>
+		<link>https://kiratran23.github.io/mywordpress/chao-moi-nguoi/</link>
+					<comments>https://kiratran23.github.io/mywordpress/chao-moi-nguoi/#comments</comments>
 		
 		<dc:creator><![CDATA[trangialoc]]></dc:creator>
 		<pubDate>Mon, 02 Jan 2023 13:14:54 +0000</pubDate>
 				<category><![CDATA[Chưa phân loại]]></category>
-		<guid isPermaLink="false">http://https://kiratran23.github.io/mywordpress/?p=1</guid>
+		<guid isPermaLink="false">https://kiratran23.github.io/mywordpress/?p=1</guid>
 
 					<description><![CDATA[Cảm ơn vì đã sử dụng WordPress. Đây là bài viết đầu tiên của bạn. Sửa hoặc xóa nó, và bắt đầu bài viết của bạn nhé!]]></description>
 										<content:encoded><![CDATA[
 <p>Cảm ơn vì đã sử dụng WordPress. Đây là bài viết đầu tiên của bạn. Sửa hoặc xóa nó, và bắt đầu bài viết của bạn nhé!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://https://kiratran23.github.io/mywordpress/chao-moi-nguoi/feed/</wfw:commentRss>
+					<wfw:commentRss>https://kiratran23.github.io/mywordpress/chao-moi-nguoi/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
